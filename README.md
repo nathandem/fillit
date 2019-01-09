@@ -3,7 +3,7 @@
 
 ## Presentation
 
-Fillit is a variant of the infamous Russian game Tetris. Its rule is simple: given some tetris blocks form the smallest possible square.
+Fillit is a variant of the famous Russian game Tetris. Its rule is simple: given some tetris blocks form the smallest possible square.
 
 Given this input
 
